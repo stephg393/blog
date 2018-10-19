@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Stephanie Blog]]></title><description><![CDATA[Stephanie Blog]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 19 Oct 2018 15:37:04 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[“I am a feminist, and what that means to me is much the same as the meaning of the fact that I am Black: it means that I must undertake to…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//hi-folks/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//hi-folks/</guid><pubDate>Mon, 05 Oct 2020 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;“I am a feminist, and what that means to me is much the same as the meaning of the fact that I am Black: it means that I must undertake to love myself and to respect myself as though my very life depends upon self-love and self-respect. It means that I must everlastingly seek to cleanse myself of the hatred and the contempt that surrounds and permeates my identity, as a woman, and as a Black human being, in this particular world of ours.”  - June Jordan.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Stephanie Blog]]></title><description><![CDATA[Stephanie Blog]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 19 Oct 2018 16:16:40 GMT</lastBuildDate><item><title><![CDATA[Free Agency Internship]]></title><description><![CDATA[Internships.  An opportunity to explore your career options and asses what
+you love and what you don’t ever want to look at after it’s over…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//blog-1/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//blog-1/</guid><pubDate>Fri, 05 Oct 2018 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Internships.&lt;/em&gt; An opportunity to explore your career options and asses what
+you love and what you don’t ever want to look at after it’s over.&lt;/p&gt;
+&lt;p&gt;This summer I was lucky enough to meet Allison Kunz, founder of Free Agency and my mentor from Rewriting the Code, who bestowed me the opportunity to be an intern for her company which aligned perfectly with my summer schedule—I got to work remotely. The convenience of getting your work done without having to go to be at set location nine-to-five everyday is a way of life I never thought of before. Communication platforms such as Google Hangout have been an imperative part of my internship. Through this channel, I had weekly updates, conducted my user and usability research, and participated in lessons taught by my mentor for the week. In addition to the internship, Allision guided me to obtain a grant from Maryland Tech Connection which allowed me to purchase courses through DataCamp and further develop skills with Git and Python. Through this internship I had the amazing opportunity to rotate through a number of projects with the help of some very talented mentors.&lt;/p&gt;
+&lt;h2&gt;Business + Marketing&lt;/h2&gt;
+&lt;h3&gt;Mentors:&lt;/h3&gt;
+&lt;p&gt;Dianna Berisha &amp;#x26; Allison Kunz&lt;/p&gt;
+&lt;h4&gt;Summary&lt;/h4&gt;
+&lt;p&gt;My first project was to build a competitive landscape analysis. At first I was overwhelmed; I felt like every little detail was important; every color, image and slogan must be noted. I used Google Sheets to document variables for each freeelance marketplace platform such as pain-points, number of users, subscription prices and features. This analysis in addition to networking at technology events allowed the company to narrow down their niche and focus on a product that can be delivered ASAP.&lt;/p&gt;
+&lt;h4&gt;Takeaways&lt;/h4&gt;
+&lt;p&gt;Research at first seemed daunting. One weakness I noticed was that it was easy to dig yourself in a hole and get too much information on one company that might not be helpful when comparing all the companies on a greater scale. However from the input, recommendations and business articles Dianna provided, I was able to begin filtering through each platform for essential information. In conclusion, I learned that although landscape analyses may be tedious they are essential to a start-up company because it allows one to see what other companies are doing and how we can make do it better.&lt;/p&gt;
+&lt;h2&gt;User Research + UX Design&lt;/h2&gt;
+&lt;h3&gt;Mentor:&lt;/h3&gt;
+&lt;p&gt;Charles Haitkin&lt;/p&gt;
+&lt;h4&gt;Summary&lt;/h4&gt;
+&lt;p&gt;This rotation encompassed two aspects of being a UX designer, creation and revision. First, Charles walked me through his first prototype of Free Agency’s login process and submitting a proposal. As we went through the prototype he asked questions that provided information on how much the user understands how to handle the site.&lt;/p&gt;
+&lt;h5&gt;Account Page&lt;/h5&gt;
+&lt;h4&gt;Takeaways&lt;/h4&gt;
+&lt;h2&gt;ReactJS&lt;/h2&gt;
+&lt;h3&gt;Mentor:&lt;/h3&gt;
+&lt;p&gt;Allison Kunz&lt;/p&gt;
+&lt;h4&gt;Summary&lt;/h4&gt;
+&lt;h4&gt;Takeaways&lt;/h4&gt;</content:encoded></item><item><title><![CDATA[About Me]]></title><description><![CDATA[“I am a feminist, and what that means to me is much the same as the meaning of the fact that I am Black: it means that I must undertake to…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//hi-folks/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//hi-folks/</guid><content:encoded>&lt;p&gt;“I am a feminist, and what that means to me is much the same as the meaning of the fact that I am Black: it means that I must undertake to love myself and to respect myself as though my very life depends upon self-love and self-respect. It means that I must everlastingly seek to cleanse myself of the hatred and the contempt that surrounds and permeates my identity, as a woman, and as a Black human being, in this particular world of ours.”  - June Jordan.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -40,26 +62,4 @@
 &lt;h2&gt;Professional&lt;/h2&gt;
 &lt;p&gt;My career goals include getting certified in project management and working either in L.A. or New York. I plan to learn 2D and 3D animation and try some freelance work on the side. I want to make infographics on programming topics for children. My dream job in the future would ultimately be making children’s movies, or starting my own company.&lt;/p&gt;
 &lt;h2&gt;Personal&lt;/h2&gt;
-&lt;p&gt;At UMD, I’m on the women’s club volleyball team. I’ve been playing for 7 years now. I’m also extremely interested in fashion and social justice.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Free Agency Internship]]></title><description><![CDATA[Internships.  An opportunity to explore your career options and asses what
-you love and what you don’t ever want to look at after it’s over…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//blog-1/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//blog-1/</guid><pubDate>Fri, 05 Oct 2018 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Internships.&lt;/em&gt; An opportunity to explore your career options and asses what
-you love and what you don’t ever want to look at after it’s over.&lt;/p&gt;
-&lt;p&gt;This summer I was lucky enough to meet Allison Kunz, founder of Free Agency and my mentor from Rewriting the Code, who bestowed me the opportunity to be an intern for her company which aligned perfectly with my summer schedule—I got to work remotely. The convenience of getting your work done without having to go to be at set location nine-to-five everyday is a way of life I never thought of before. Communication platforms such as Google Hangout have been an imperative part of my internship. Through this channel, I had weekly updates, conducted my user and usability research, and participated in lessons taught by my mentor for the week. In addition to the internship, Allision guided me to obtain a grant from Maryland Tech Connection which allowed me to purchase courses through DataCamp and further develop skills with Git and Python. Through this internship I had the amazing opportunity to rotate through a number of projects with the help of some very talented mentors.&lt;/p&gt;
-&lt;h2&gt;Business + Marketing&lt;/h2&gt;
-&lt;h3&gt;Mentors:&lt;/h3&gt;
-&lt;p&gt;Dianna Berisha &amp;#x26; Allison Kunz&lt;/p&gt;
-&lt;h4&gt;Summary&lt;/h4&gt;
-&lt;p&gt;My first project was to build a competitive landscape analysis. At first I was overwhelmed; I felt like every little detail was important; every color, image and slogan must be noted. I used Google Sheets to document variables for each freeelance marketplace platform such as pain-points, number of users, subscription prices and features. This analysis in addition to networking at technology events allowed the company to narrow down their niche and focus on a product that can be delivered ASAP.&lt;/p&gt;
-&lt;h4&gt;Takeaways&lt;/h4&gt;
-&lt;p&gt;Research at first seemed daunting. One weakness I noticed was that it was easy to dig yourself in a hole and get too much information on one company that might not be helpful when comparing all the companies on a greater scale. However from the input, recommendations and business articles Dianna provided, I was able to begin filtering through each platform for essential information. In conclusion, I learned that although landscape analyses may be tedious they are essential to a start-up company because it allows one to see what other companies are doing and how we can make do it better.&lt;/p&gt;
-&lt;h2&gt;User Research + UX Design&lt;/h2&gt;
-&lt;h3&gt;Mentor:&lt;/h3&gt;
-&lt;p&gt;Charles Haitkin&lt;/p&gt;
-&lt;h4&gt;Summary&lt;/h4&gt;
-&lt;p&gt;This rotation encompassed two aspects of being a UX designer, creation and revision. First, Charles walked me through his first prototype of Free Agency’s login process and submitting a proposal. As we went through the prototype he asked questions that provided information on how much the user understands how to handle the site.&lt;/p&gt;
-&lt;h5&gt;Account Page&lt;/h5&gt;
-&lt;h4&gt;Takeaways&lt;/h4&gt;
-&lt;h2&gt;ReactJS&lt;/h2&gt;
-&lt;h3&gt;Mentor:&lt;/h3&gt;
-&lt;p&gt;Allison Kunz&lt;/p&gt;
-&lt;h4&gt;Summary&lt;/h4&gt;
-&lt;h4&gt;Takeaways&lt;/h4&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;At UMD, I’m on the women’s club volleyball team. I’ve been playing for 7 years now. I’m also extremely interested in fashion and social justice.&lt;/p&gt;</content:encoded></item></channel></rss>
