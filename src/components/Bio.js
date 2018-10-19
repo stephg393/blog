@@ -29,7 +29,7 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Hi, I'm <strong>Stephanie Gnammakou</strong>! I'm a student at at
+          Hi, I'm <strong>Stephanie Gnammakou</strong>! I'm a student at
           University of Maryland, College Park doubling in computer science and
           communcation.{' '}
           <a href="https://www.linkedin.com/in/stephaniegnammakou/">

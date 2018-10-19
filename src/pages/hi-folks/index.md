@@ -1,6 +1,6 @@
 ---
 title: About Me
-date: "2020-10-05T22:40:32.169Z"
+date: ""
 draft: true
 ---
 
