@@ -19,14 +19,19 @@ class Bio extends React.Component {
       >
         <img
           src={profilePic}
+
           alt={`Stephanie Gnammakou`}
+
           style={{
-            marginRight: rhythm(1 / 2),
+            marginRight: rhythm(1/2),
             marginBottom: 0,
             width: rhythm(5),
             height: rhythm(5),
-            borderRadius: 70,
+            borderRadius: 90,
+            resizeMode: 'contain'
+
           }}
+
         />
         <p>
           Hi, I'm <strong>Stephanie Gnammakou</strong>! I'm a student at
