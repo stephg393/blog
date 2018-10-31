@@ -3,7 +3,7 @@ module.exports = {
     title: "Stephanie's Blog",
     author: '',
     description: '',
-    siteUrl: 'https://stephg393.github.io/blog/',
+    siteUrl: 'https://stephg393.github.io/blog.git',
 
   },
   pathPrefix: '/blog',
